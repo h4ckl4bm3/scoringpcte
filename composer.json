@@ -1,14 +1,14 @@
 {
-    "name": "Nakiami/mellivora",
+    "name": "ScoringCTF",
     "type": "project",
-    "description": "Mellivora is a CTF engine written in PHP",
-    "homepage": "https://github.com/Nakiami/mellivora",
+    "description": "CTF engine written in PHP",
+    "homepage": "https://github.com/h4ckl4bm3/scoringpcte",
     "license": "GPL-3.0",
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Nakiami",
-            "homepage": "https://github.com/Nakiami/"
+            "name": "ScoringCTF",
+            "homepage": "https://github.com/h4ckl4bm3/"
         }
     ],
     "config": {
